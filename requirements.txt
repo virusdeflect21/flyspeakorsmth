@@ -1,0 +1,6 @@
+# Core machine learning & tensor computations
+torch>=2.0.0
+numpy>=1.22.0
+
+# HTTP requests for connectome dataset retrieval
+requests>=2.28.0

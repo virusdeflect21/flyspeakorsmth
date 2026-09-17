@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Checkpoints & model weights
+*.pt
+*.pth
+*.bin
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
